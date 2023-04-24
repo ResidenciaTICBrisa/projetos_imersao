@@ -1,0 +1,25 @@
+---
+layout: post
+title: Pipeline Dados
+date: 2023-04-20 13:32:20 +0700
+description: Projeto Eldorado
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [data pipeline, machine learning, detecção de anomalias]
+comments: false
+---
+
+# Processamento de Linguagem Natural 
+
+**Descrição:** Um dos grandes problemas de grandes banco de dados é a detecção de anomalias de dados do tipo string. O processamento de linguagem natural depende da lingua (portugues, espanhol etc) e tem vários 
+
+
+**Resultados esperados:** proposta de pre processamento e processamento de linguagem natural para analizar bancos de dados com entradas de linguagem natural 
+
+**Habilidades necessárias/preferenciais:** conhecimento em python, conhecimento basico em sciencia de dados, compreensão de regras gramaticais em lingua portuguesa
+
+**Mentores:** Andrea, Eldorado/Dell
+
+**Tamanho do projeto:** Médio/Grande
+
+**Dificuldade:** Grande

@@ -9,7 +9,7 @@ tags: [data pipeline, machine learning, detecção de anomalias]
 comments: false
 ---
 
-# Título
+# Pipeline de Dados
 
 **Descrição:** Um dos grandes problemas enfrentados por orgãos reguladores é ter acesso a dados e facilmente fazer cruzamento dos dados. O desafio é propor um pipeline de dados de um contexto específico, e disponibilizar exemplo de modelo de machine learning para detectar anomalias dos dados.
 
