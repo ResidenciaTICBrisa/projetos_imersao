@@ -1,0 +1,24 @@
+---
+layout: post
+title: Otimização de rotas de Ônibus  
+date: 2023-04-20 13:32:20 +0700
+description: Projeto Inova
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [rounting service, serviço de rotas, otimização]
+comments: false
+---
+
+# Serviço de rotas de ônibus tempo real open source 
+
+**Descrição:** Hoje os serviços de rotas de ônibus são fornecidas somente por empresas privadas, com o modelo de negócio Mobility as a Service. Serviços de rotas open source, como o valhalla, possuem serviços de rotas somente para carros, pedestres e bicicletas. O desafio é adaptar as soluções open source já disponíveis de serviço de rota para realizar a rota de ônibus para o usuário final.
+
+**Resultados esperados:** protótipo de um serviço de rotas de ônibus em software livre
+
+**Habilidades necessárias/preferenciais:** conhecimento de algoritmos de grafo, distância mínima entre dois nós, programação python
+
+**Mentores:** Rodrigo, Inova
+
+**Tamanho do projeto:** Médio/Grande
+
+**Dificuldade:** Grande
