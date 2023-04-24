@@ -28,11 +28,7 @@ layout: default
     <section class="contact">
       <h3 class="contact-title">Contato</h3>
       <ul>
-        {% if site.social-email %}
-          <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
-        {% else %}
-          <li class="email"><a href="mailto:example.david@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-        {% endif %}
+        <div class="page-title"> <b>Coordenadora do Projeto na UnB:</b> {{site.social-email}}</div>
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
