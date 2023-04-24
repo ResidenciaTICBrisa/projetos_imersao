@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pipeline Dados
+title: Processamento de Linguagem Natural 
 date: 2023-04-20 13:32:20 +0700
 description: Projeto Eldorado
 img: # Add image post (optional)
