@@ -1031,6 +1031,14 @@ table tfoot td {
   text-align: center;
 }
 
+.contact-email {
+  position: relative;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+}
+
 .contact .contact-title::before {
   content: "";
   display: block;
@@ -1209,7 +1217,7 @@ a.newer-posts:hover {
 }
 
 .header-page .page-title {
-  font-weight: 400;
+  font-weight: 700;
   margin: 0 0 10px;
   line-height: 1.3;
 }
