@@ -1,0 +1,23 @@
+---
+layout: post
+title: Assistente virtual Integrado 
+date: 2023-04-20 13:32:20 +0700
+description: Projeto Inova
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [chatbot, Machine Learning]
+comments: false
+---
+
+# Assistente virtual Integrado
+
+**Descrição:** 
+
+**Resultados esperados:** chatbot em ambiente de homologação
+
+**Habilidades necessárias/preferenciais:** compreensão de regras gramaticais, programação em python
+
+**Mentores:** Sandro, Toledo
+
+**Tamanho do projeto:** Pequeno/Médio
+**Dificuldade:** Pequeno
