@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Template
+title: Acompanhamento de alunos em treinamento
 date: 2021-03-17 13:32:20 +0700
-description: Template for posts. 
+description: Acompanhamento de alunos em treinamento
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Template]
+tags: [machine learning, Big Data, Previsão, educação]
 comments: false
 ---
 
-# Título
+# Acompanhamento de alunos em treinamento
 
-**Descrição:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut mauris sem. Nullam vitae tortor eu quam imperdiet mattis ac ac ipsum. Praesent et bibendum justo. Quisque id cursus velit. Curabitur blandit quis diam at blandit. Vivamus vel fringilla nisi. Nullam massa neque, tempus in pretium volutpat, vulputate sit amet nibh. Maecenas nec eros turpis. Cras luctus sagittis velit, a accumsan nisi iaculis vel. Nullam eget justo aliquet, eleifend lacus a, malesuada elit. Pellentesque efficitur, ipsum ut tristique commodo, dolor est aliquet nulla, at pretium purus massa sed mauris. Proin fermentum diam eu enim fermentum porttitor. Nullam sed ultricies metus. Cras pretium lectus a nisi tristique venenatis. Mauris malesuada, nulla nec tincidunt facilisis, diam felis venenatis justo, ut varius magna libero vel sem.
+**Descrição:** Construir uma solução de BigData (ou IA) que recebe os dados de histórico, desempenho e participação dos alunos de programas de capacitação técnica com o intuito de prever problemas futuros com base nos dados armazenado (desistência, inadimplência, reprovação etc.)
 
-**Resultados esperados:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut mauris sem. Nullam vitae tortor eu quam imperdiet mattis ac ac ipsum. Praesent et bibendum justo. Quisque id cursus velit. Curabitur blandit quis diam at blandit. Vivamus vel fringilla nisi. Nullam massa neque, tempus in pretium volutpat, vulputate sit amet nibh. Maecenas nec eros turpis. Cras luctus sagittis velit, a accumsan nisi iaculis vel. Nullam eget justo aliquet, eleifend lacus a, malesuada elit. Pellentesque efficitur, ipsum ut tristique commodo, dolor est aliquet nulla, at pretium purus massa sed mauris. Proin fermentum diam eu enim fermentum porttitor. Nullam sed ultricies metus. Cras pretium lectus a nisi tristique venenatis. Mauris malesuada, nulla nec tincidunt facilisis, diam felis venenatis justo, ut varius magna libero vel sem.
+**Resultados esperados:** Uma solução capaz de prever o comportamento futuro dos alunos em programa de capacitação técnica com base no seu comportamento inicial.
 
-**Habilidades necessárias/preferenciais:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut mauris sem. Nullam vitae tortor eu quam imperdiet mattis ac ac ipsum. Praesent et bibendum justo.
+**Habilidades necessárias/preferenciais:** Programação em Python, conhecimento de machine learning e/ouBigData
 
-**Mentores:** Lorem ipsum, Dolor sit amet.
+**Mentores:** Brisa
 
-**Tamanho do projeto:** Lorem ipsum dolor sit amet.
+**Tamanho do projeto:**  Médio/Grande
 
-**Dificuldade:** Lorem.
+**Dificuldade:** Médio.
