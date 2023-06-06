@@ -15,9 +15,9 @@ comments: false
 [https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/](https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/)
 
 
-**Resultados esperados:** proposta de pre processamento e processamento de linguagem natural para analizar bancos de dados com entradas de linguagem natural. Notebooks com diversas análises
+**Resultados esperados:** Extração, análise e pré processamento de dados, pesquisa de modelos já existentes para análise de texto ou proposta para criação de novos modelos. Notebooks com rastreio de atividades.
 
-**Habilidades necessárias/preferenciais:** conhecimento em python, conhecimento basico em ciência de dados, compreensão de regras gramaticais em lingua portuguesa
+**Habilidades necessárias/preferenciais:** Conhecimento em python, conhecimento básico em ciência de dados, compreensão de regras gramaticais em língua portuguesa
 
 **Mentores:** Laila, Secretaria de Participação Social
 
