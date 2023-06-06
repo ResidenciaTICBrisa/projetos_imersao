@@ -1,0 +1,24 @@
+---
+layout: post
+title: Canvas Inteligênte 
+date: 2023-06-06 10:56:00 +0700
+description: Projeto CanvLight
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [business intelligence, programação web, educação]
+comments: false
+---
+
+# Canvas Inteligênte
+
+**Descrição:** Gerador de canvas personalizado a partir de entradas de dados sobre o negócio do usuário
+
+**Resultados esperados:** Aplicação web responsiva, intuitiva e compatível com todos os dispositivos e plataformas
+
+**Habilidades necessárias/preferenciais:** Conhecimento básico em lógica de programação, conhecimento em javascript, conhecimento em html e css.
+
+**Mentores:** Brisa
+
+**Tamanho do projeto:** Pequeno/Médio
+
+**Dificuldade:** Média
