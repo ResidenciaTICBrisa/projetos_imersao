@@ -15,12 +15,18 @@ comments: false
 Em plataformas de participação digital, é muito importante permitir que toda população seja capaz de acessar a plataforma, compreender propostas e participar ativamente na priorização de propostas e sugestão de propostas. Para que possamos atingir populações mais vulneráveis, potencialmente analfabetas funcionais, a plataforma deve ter uma linguagem acessível, e replicar práticas de mídias sociais, com o uso de símbolos e comunicação para além do escrito. A forma mais acessível de comunicação é a verbal. Para isso, o presente projeto tem como objetivo propor uma solução que permita a interação em um ambiente de participação digital por meio de comunicação verbal. Ou seja, o texto do site deve ser convertido em diálogo e a conversa do usuário deve ser convertida em texto. 
 
 
-**Resultados esperados:** Solução em linguagem natural para comunicação por voz treinada com a língua brasileira.
+**Resultados obtidos:** Solução em linguagem natural, feita em software livre para comunicação por voz treinada com a língua brasileira.
+- Imagem do projeto:
+- Foto da equipe:
+
+**Lições Aprendidas:** 
+- João Pedro: 
+-
 
 **Habilidades necessárias/preferenciais:**  programação em python, conhecimento em processamento de sinais, machine learning
 
-**Mentores:** Laila Felix, Secretaria de Participação Social
+**Mentores:** Laila Felix, Secretaria de Participação Social. Laboratório Lappis
 
 **Tamanho do projeto:** Médio/Grande
 **Dificuldade:** Grande
-**Sugestão de solução**: [https://github.com/aigc-audio/audiogpt](https://github.com/aigc-audio/audiogpt)
+**Link para a Solução**: [Voz Para Todos](https://residenciaticbrisa.github.io/01_ComunicacaoTexto/)
