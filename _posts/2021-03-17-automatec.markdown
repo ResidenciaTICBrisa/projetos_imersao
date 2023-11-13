@@ -26,6 +26,11 @@ comments: false
 **Resultado obtido:**
 - **Principais entregas:** MVP - Login de usuário, cadastro de usuário, escolha de template da planilha, exportação de planilha preenchida. 
 - **Imagens do projeto:**
+  ![image](https://github.com/raqueleucaria/projetos_imersao/assets/81540491/f365f87f-c36a-4777-8368-14bf16494e30)
+  ![image](https://github.com/raqueleucaria/projetos_imersao/assets/81540491/a7752e4a-6058-4a5c-940d-44f6eb249a2e)
+  ![image](https://github.com/raqueleucaria/projetos_imersao/assets/81540491/3c9d7ba6-3a85-4969-8b81-0b07a6f38dc0)
+  ![image](https://github.com/raqueleucaria/projetos_imersao/assets/81540491/f268794e-f89a-410c-9507-94935596a590)
+
 - **Foto da equipe:**
   | ![Hemanoel](https://avatars.githubusercontent.com/u/88113694?v=4) | ![Isaac](https://avatars.githubusercontent.com/u/90662483?v=4) | ![Pedro](https://avatars.githubusercontent.com/u/78980796?v=4)| ![Raquel](https://avatars.githubusercontent.com/u/81540491?v=4) |
   |:---:|:---:|:---:|:---:|
