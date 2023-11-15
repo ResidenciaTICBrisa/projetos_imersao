@@ -24,6 +24,9 @@ Em plataformas de participação digital, é muito importante permitir que toda 
 ### Gabriel Barbosa:
 ### Geovane Freitas:
 ### João Pedro: 
+Durante o projeto, pude ter um enorme crescimento, participando de toda a organização do projeto desde o início. Nesses 6 meses de trabalho ativo pude destacar meu aprendizado em duas partes principais:
+No aspecto técnico, foi possível aprender sobre novas linguagens e tecnologias, bem como aplicá-las em projetos reais.
+No aspecto pessoal, foram desenvolvidas habilidades de organização, comunicação, trabalho em equipe, pensamento crítico e resolução de problemas.
 ### Izabella Alves: 
 Ao longo de todo o nosso projeto, tivemos uma clara compreensão da importância de desenvolver uma ferramenta de acessibilidade com um design centrado no usuário. Esse enfoque aprimorou minha habilidade de compreender as necessidades dos usuários de forma mais profunda. Além disso, uma parte significativa do nosso trabalho envolveu o reuso de código existente, exigindo que implementássemos alterações em um código que não foi totalmente desenvolvido por nós. Esse desafio contribuiu para o desenvolvimento das minhas habilidades de leitura de código, interpretação de documentação, pesquisa e outras competências cruciais.
 
