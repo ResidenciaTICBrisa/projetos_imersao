@@ -32,7 +32,9 @@ Ao longo de todo o nosso projeto, tivemos uma clara compreensão da importância
 
 Um aspecto especialmente enriquecedor do projeto foi a necessidade de compreender e incorporar funcionalidades relacionadas à tecnologia text-to-speech. Aprofundei-me no entendimento do funcionamento dessas tecnologias, desde os modelos de treinamento até a compreensão de redes neurais recorrentes. Além disso, explorei o panorama atual desse campo em constante evolução, compreendendo as últimas tendências e avanços no mercado.
 ### Vitor Borges:
+Encerro este projeto de acessibilidade web com uma nova visão das nuances que permeiam o desenvolvimento inclusivo de plataformas web. Com certeza foi desafiador criar interfaces intuitivas e implementar tecnologias assistivas com significativo impacto. Os desafios, embora numerosos, nos estimulando a busca por soluções criativas. A colaboração dos membros da equipe foi vital, com habilidades diversas conseguimos obter visões diferentes que auxiliaram em uma sinergia para a entrega do produto final. Este projeto não foi apenas uma conquista técnica; foi uma jornada de crescimento, redefinindo nosso compromisso com a acessibilidade digital e deixando-nos prontos para enfrentar os desafios futuros.
 
+Para mim o mais desafiador foi lidar com uma tecnologia complexa enquanto tentavamos "decifrar" os códigos da API original, foi necessário muitos dias de debbug para começar a compreender como as funções se ligavam para fazer o leitor de página, assim que deciframos o básico partimos para o desenvolvimento das novas features e integração das mesmas.
 ## Habilidades necessárias/preferenciais  
 - programação em python, conhecimento em processamento de sinais, machine learning
 
