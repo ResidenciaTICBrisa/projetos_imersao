@@ -22,3 +22,42 @@ comments: false
 **Tamanho do projeto:** Médio/Grande
 
 **Dificuldade:** Grande
+
+**Resultado obtido** 
+- **Principais entregas:** MVP - Cálculo rota ótima da API, com paradas e linhas de ônibus ; Notebooks documentando todo o processo realizado.
+
+- **Imagens do projeto:**
+
+    - Rota de Samambaia para Riacho Fundo 1
+    ![API](https://github.com/ResidenciaTICBrisa/02_RotaOnibus/blob/main/docs/Estudos/assets/Testes-A/samambaia-riacho.png?raw=true)
+
+    - Ceilândia para Estrutural
+    ![API](https://github.com/ResidenciaTICBrisa/02_RotaOnibus/blob/main/docs/Estudos/assets/Testes-A/estrutural-ceilandia.png?raw=true)
+
+    - Taguatinga para EPTG
+    ![API](https://github.com/ResidenciaTICBrisa/02_RotaOnibus/blob/main/docs/Estudos/assets/Testes-A/taguatinga-aguasclaras.png?raw=true)
+     
+
+
+**Foto da equipe:**
+
+| Foto |   Desenvolvedor   |      Github      |
+| :--: | :---------------: | :--------------: |
+| <img src="https://avatars.githubusercontent.com/u/124414056?v=4" width="100px;" alt="Foto Adne Moretti"/><br> |        João Leles        |   joao-artl   |
+| <img src="https://avatars.githubusercontent.com/u/80769421?v=4" width="100px;" alt="Foto Leonardo Vitoriano"/> | Leonardo Milomes Vitoriano |  leonardomilv3  |
+|   <img src="https://avatars.githubusercontent.com/u/89523373?v=4" width="100px;" alt="Foto Letícia Aires"/>   |     Lucas Lopes Frazao     | LucasLopesFrazao |
+|  <img src="https://avatars.githubusercontent.com/u/64107306?v=4" width="100px;" alt="Foto Marcos Vinicius"/>  |        Luiz Felipe        |     luizros     |
+| <img src= "https://avatars.githubusercontent.com/u/42724774?v=4"  width="100px;" alt="Foto Matheus Pimentel"/> |      Natalia Martimon      | nataliamartimon |
+
+
+**Lições aprendidas:**
+- **Leonardo:** O programa do Instituto BRISA foi com certeza um passo muito importante, um desafio grande e uma experiência extremamente valiosa na minha carreira. Ao longo do projeto, que trata sobre roteirização de ônibus, fui capaz de revisar e praticar todo o conhecimento aprendido do curso de Engenharia de Software, desde a parte da elicitação dos requisitos, desenho e desenvolvimento da arquitetura, até a execução da solução proposta em código. Com o projeto, consegui aprofundar nas minhas hard skills: limpeza e analise de dados com Python, desenvolvimento de algoritmos de travessia em Grafos (algoritmo de Dijkstra, etc), desenho e implementação de Arquitetura da API REST , versionamento de código com Git. Outra experiência gratificante, foi ser Scrum Master na minha equipe, o que resultou na evolução das minhas softs skills, como comunicação clara, falar em público e liderança. 
+- **Lucas:** Durante o programa, adquiri uma ampla gama de conhecimentos, destacando-se a familiaridade com ferramentas de geolocalização. Exemplos notáveis incluem o OSMNX, utilizado no projeto atual, e o OSRM, empregado no DOJO. Essas ferramentas foram integradas ao Folium, um software que facilita a visualização de dados no OpenStreetMap. Além disso, desenvolvi habilidades significativas na manipulação de arquivos, especialmente no formato .csv. Um exemplo prático foi a adaptação de um arquivo CSV para vincular paradas a rotas, uma contribuição crucial para o aprimoramento do projeto.
+
+    Paralelamente, aprofundei meus conhecimentos sobre APIs, sendo responsável pela construção da estrutura de nossa API usando o FASTAPI. Adicionalmente, houve um avanço notável nas minhas habilidades interpessoais. Aprimorei minha capacidade de comunicação e habilidade em falar em público, competências essenciais para o desenvolvimento profissional e pessoal.
+- **Luiz:** Participar do projeto Rota de Ônibus foi uma experiência enriquecedora no aprimoramento da minha formação como engenheiro. Durante o projeto, tive a oportunidade de aprimorar minhas habilidades em programação, explorando os frameworks essenciais para o desenvolvimento de sistemas de planejamento de rotas de ônibus. Dentre as ferramentas que se destacaram nesse processo, merecem menção especial o Folium, o Shapely e o OpenStreetMap, que se revelaram fundamentais para o sucesso do projeto. Além disso, pude aprofundar meus conhecimentos em tratamento de dados utilizando o pandas e o geopandas. Em resumo, embora já possuísse um conhecimento sólido na linguagem Python, essa experiência proporcionou-me uma perspectiva prática de como a Python pode ser aplicada de maneira eficiente na criação e execução de projetos como este.
+- **João:** Participar deste projeto foi uma experiência incrível. Ao aprimorar o CSV responsável por criar o grafo direcional das linhas de ônibus em Python, desenvolvi significativamente minhas habilidades de programação, fundamental no meu  aprendizado como estudante de engenharia de software. Além disso, adentrei no mundo das metodologias ágeis, antes uma área completamente desconhecida para mim. Destaco também o notável crescimento das minhas habilidades interpessoais, superando a timidez ao longo do desenvolvimento do projeto.
+- **Natália:** Participar do projeto foi muito importante, proporcionou um crescimento significativo para mim na área de software. Mesmo vindo de outra área, Engenharia Aeroespacial, pude aprender a lidar com desafios práticos que um projeto de software possui, desde a colaboração com membros da equipe, aprendendo como usar metodologias ágeis como o scrum, até a aplicação de conhecimentos técnicos. Ao longo do projeto pude aprender um pouco mais, com a ajuda dos membros da equipe, sobre versionamento de código com o git e o github. Além disso, aprofundei meus conhecimentos em Python, criando códigos para realizar tratamento de dados com o pandas, que é uma biblioteca importante para estruturação e análise de conjuntos de dados com DataFrame. Durante minha participação no projeto, adquiri conhecimentos valiosos sobre o Folium, uma biblioteca em Python voltada para a criação de mapas interativos, e o Open Street Map. Aprendi um pouco sobre grafos e também a manipular arquivos principalmente em csv. Este projeto não apenas solidificou meu conhecimento em programação, mas também me instigou a buscar continuamente novos desafios e aprimorar minhas habilidades em resposta às demandas do mundo da tecnologia.
+
+
+**Link para a solução** : [Rotas - GitHub](https://github.com/ResidenciaTICBrisa/02_RotaOnibus)
