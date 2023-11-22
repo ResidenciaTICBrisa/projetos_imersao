@@ -12,15 +12,37 @@ comments: false
 # Processamento de Linguagem Natural 
 
 **Descrição:** Brasil Participativo é a nova plataforma digital do governo federal, software livre Decidim, um espaço para que a população possa contribuir com a criação e melhoria das políticas públicas. Com uma semana no ar, a plataforma já tem 1000 propostas feitas pelos cidadãos. A plataforma, porém, não possui indexação ou processamento de linguagem natural para categorizar de forma automatizada as propostas. A ideia da proposta é fazer análise das propostas por meio de processamento de linguagem natural (PLN).
-[https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/](https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/)
+[Brasil participativo](https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/)
 
 
-**Resultados esperados:** Extração, análise e pré processamento de dados, pesquisa de modelos já existentes para análise de texto ou proposta para criação de novos modelos. Notebooks com rastreio de atividades.
+**Resultados esperados:** A partir das propostas do Brasil participativo, é esperado a extração dos dados, a análise e o pré-processamento dos mesmos. Com o objetivo de utilizarmos modelos de classificação já existentes para análise de texto ou na criação de novos modelos. Também é esperado após a criação de modelo de classificação, a integração no sistema do Brasil participativo atráves de uma API.
+
+**Resultado obtido**: Após 6 meses de trabalho árduo, obtivemos um modelo de classficação de propostas com uma acurácia de 63%. Claramente não é uma porcentagem alta para ser comercializada, isso se deve ao fato que atualmente o Brasil participativo não possui propostas suficientes para ter um bom treinamento, nesse exato momento ela possui 8000 sendo que mais da metade dessas propostas estão em apenas duas categorias, como pode ser visto na imagem abaixo:
+![Grafico](/assets/img/nlp/grafico.png) 
+
+Mesmo assim, para atingir essa acurácia foi realizado diversas técnicas sofisticadas de balanceamento de dados e aumento de dados (data augmentation) para conseguir esse desempenho. No fim, foi criado uma automação utilizando o AirFlow, para que o algoritmo continue adicionando novas propostas, assim que, elas forem publicadas no site. Com isso, um dia quando o site possuir propostas suficientes o algoritmo vai ser capaz de alcançar bons resultados.
+
+**principais entregas**: Tivemos duas principais entregas:
+1. Algoritmo de categorização de propostas com acurácia de 63%;
+2. Melhorias no algoritmo de categorização, automatização de coleta de dados no Airflow e a criação de uma GEM no Ruby.
+
+**lições aprendidas**:
+1. **Pré-processamento de dados é crucial:** Com poucos dados, a qualidade do pré-processamento de dados torna-se ainda mais crítica. Certifique-se de realizar uma limpeza eficaz, tratamento de dados ausentes e normalização.
+2. **Qualidade e preparação dos dados:** A qualidade dos dados é fundamental. Lições frequentes incluem a importância da limpeza, normalização e garantia de que os dados estejam representativos do problema que se deseja resolver.
+3. **Seleção adequada de algoritmos:** A escolha do algoritmo é crucial e depende do tipo de problema a ser resolvido. Nem sempre o algoritmo mais complexo é o melhor. Às vezes, algoritmos mais simples ou técnicas específicas são mais eficazes, especialmente quando há restrições de dados.
+
+**link da solução**: Caso tenha interesse em se aprofundar, [nesse link](https://github.com/ResidenciaTICBrisa/07_ProcessamentoLinguagemNatural) se encontra o nosso repositório no Github com a documentação atualizada e completa.  
+
+**foto da equipe**:
+Os integrantes da equipe da esquerda para direita são:
+- [Alexandre Oliveira](https://github.com/LexTOliver)
+- [Leandro Silva](https://github.com/Leanddro13)
+- [João anacleto](https://github.com/jpanacleto2)
+- [Chaydson Ferreira](https://github.com/chaydson)
+![Foto da equipe](/assets/img/nlp/time.jpg)
 
 **Habilidades necessárias/preferenciais:** Conhecimento em python, conhecimento básico em ciência de dados, compreensão de regras gramaticais em língua portuguesa
 
 **Mentores:** Laila, Secretaria de Participação Social
 
-**Tamanho do projeto:** Médio/Grande
-
-**Dificuldade:** Grande
+**Tamanho do projeto e dificuldade:** Esse é um projeto Grande, necessitando de uma equipe de no mínimo 4 pessoas e com uma complexidade difícil.

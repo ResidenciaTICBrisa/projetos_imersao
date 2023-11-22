@@ -1,0 +1,40 @@
+I"/<h1 id="automatec">Automatec</h1>
+
+<p><strong>Descrição do Desafio:</strong>  Sistema Web para simplificar o preenchimento automatizado de planilhas na prestação de contas da FINATEC. Com a redução do preenchimento manual, diminuímos erros e otimizando o tempo, o sistema integra-se eficientemente a fontes de dados da empresa diretamente, proporcionando uma visão consolidada das informações financeiras. Medidas de segurança garantem a proteção de dados sensíveis, em conformidade com as normas da FINATEC. A capacidade de gerar relatórios personalizados contribui para uma análise mais aprofundada, promovendo uma gestão financeira eficiente e estratégica.</p>
+
+<p><strong>Resultados esperados:</strong> Implementação de um Sistema Web capaz de realizar o preenchimento automático das planilhas de prestação de contas, utilizando as informações armazenadas no Banco de Dados da empresa.</p>
+
+<p><strong>Habilidades necessárias/preferenciais:</strong> Programação em Python, programação em Django, conhecimentos de Banco de Dados, SQL, PL/SQL.</p>
+
+<p><strong>Mentores:</strong> FINATEC</p>
+
+<p><strong>Tamanho do projeto:</strong> Médio</p>
+
+<p><strong>Dificuldade:</strong> Médio</p>
+
+<p><strong>Resultado obtido:</strong></p>
+<ul>
+  <li><strong>Principais entregas:</strong> MVP - Login de usuário, cadastro de usuário, escolha de template da planilha, exportação de planilha preenchida.</li>
+  <li>
+    <p><strong>Imagens do projeto:</strong>
+<img src="https://github.com/raqueleucaria/projetos_imersao/assets/81540491/f365f87f-c36a-4777-8368-14bf16494e30" alt="image" />
+<img src="https://github.com/raqueleucaria/projetos_imersao/assets/81540491/a7752e4a-6058-4a5c-940d-44f6eb249a2e" alt="image" />
+<img src="https://github.com/raqueleucaria/projetos_imersao/assets/81540491/3c9d7ba6-3a85-4969-8b81-0b07a6f38dc0" alt="image" />
+<img src="https://github.com/raqueleucaria/projetos_imersao/assets/81540491/f268794e-f89a-410c-9507-94935596a590" alt="image" /></p>
+  </li>
+  <li><strong>Foto da equipe:</strong>
+| <img src="https://avatars.githubusercontent.com/u/88113694?v=4" alt="Hemanoel" /> | <img src="https://avatars.githubusercontent.com/u/90662483?v=4" alt="Isaac" /> | <img src="https://avatars.githubusercontent.com/u/78980796?v=4" alt="Pedro" />| <img src="https://avatars.githubusercontent.com/u/81540491?v=4" alt="Raquel" /> |
+|:—:|:—:|:—:|:—:|
+| <a href="https://github.com/hemanoelbritoF">Hemanoel Brito</a> | <a href="https://github.com/IsaacLusca">Isaac Lucas</a> | <a href="https://github.com/pedrobarbosaocb">Pedro Barbosa</a> | <a href="https://github.com/raqueleucaria">Raquel Eucaria</a> |</li>
+</ul>
+
+<p><strong>Lições aprendidas:</strong></p>
+<ul>
+  <li><strong>Hemanoel:</strong> Desenvolver o projeto apresentou desafios significativos, principalmente na implementação das regras de negócios. Adaptar as lógicas de contabilidade ao desenvolvimento demandou esforço extra. Além disso, houve a busca pelo aprendizado para dominar um framework novo, o Django, e a biblioteca Openpyxl, além de um pouco de lógica de banco de dados, exigindo dedicação para explorar todas as funcionalidades e integrá-las de maneira eficiente.</li>
+  <li><strong>Isaac:</strong> Durante a fase de imersão, as expectativas em relação aos projetos e ao potencial de aprendizado estavam elevadas. A crescente complexidade dos temas e desafios dos projetos não apenas aumentou meu interesse em permanecer no programa, mas também serviu como um estímulo adicional para me dedicar. O engajamento contínuo na jornada de desenvolvimento proporcionou não apenas conhecimento técnico, mas também uma compreensão mais profunda da importância da persistência e da superação de desafios para o crescimento profissional.</li>
+  <li><strong>Pedro:</strong> Desde o início do projeto, estive empolgado com a possibilidade de conhecer novas tecnologias e enfrentar novos desafios. E, com o caminhar do projeto, essas expectativas se tornaram reais com um toque de dificuldade quanto a lógica do negócio que cerca o projeto. Nesse sentido, a importância da transparência e e comunicação clara, com os clientes e entre a equipe, se tornaram os pontos essenciais para chegarmos em uma solução adequada.</li>
+  <li><strong>Raquel:</strong> Durante o programa, adquiri conhecimentos valiosos sobre a gestão de projetos, ressaltando a importância da colaboração eficaz e do planejamento estratégico. A busca constante por aprendizado e a dedicação em explorar as funcionalidades das ferramentas utilizadas foram cruciais para superar desafios, enriquecendo meu conhecimento técnico e aprimorando minha capacidade de enfrentar futuros desafios com confiança e eficiência.</li>
+</ul>
+
+<p><strong>Link para a solução:</strong> <a href="https://github.com/ResidenciaTICBrisa/05_PipelineFinatec">Automatec - Repositório Github </a></p>
+:ET
