@@ -78,7 +78,7 @@ comments: false
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/55855365?v=4" width="100px" alt="Foto Victor">
         <br>
-        <sub><b>Victor Lázaro</b></sub>
+        <sub><b>Victório Lázaro</b></sub>
       </a>
     </td>
   </tr>
