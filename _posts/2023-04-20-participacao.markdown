@@ -22,6 +22,8 @@ Em plataformas de participação digital, é muito importante permitir que toda 
 ## Lições Aprendidas
 
 ### Gabriel Barbosa:
+Trabalhar nesse projeto significou mais do que simplesmente aprimorar habilidades técnicas, foi uma jornada dedicada à promoção da inclusão digital. Em colaboração com uma equipe comprometida, enfrentamos desafios técnicos com criatividade, implementando recursos que garantissem que a informação governamental fosse acessível a todos. Tive a oportunidade de me desenvolver com tecnologias de mercado atuais, como a síntese de fala, machine learning e práticas de avançadas de debugging, além de praticar habilidades de comunicação e metodologia para trabalho em equipe. A experiência foi profundamente satisfatória, reforçando meu compromisso inicial em utilizar a tecnologia para criar impacto positivo na sociedade.
+
 ### Geovane Freitas:
 ### João Pedro: 
 Durante o projeto, pude ter um enorme crescimento, participando de toda a organização do projeto desde o início. Nesses 6 meses de trabalho ativo pude destacar meu aprendizado em duas partes principais:
