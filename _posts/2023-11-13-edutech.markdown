@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acompanhamento de alunos de ensino médio em escolas privadas
+title: Edutech - Acompanhamento de alunos de ensino médio em escolas privadas
 date: 2023-11-13 13:32:20 +0700
 description: Acompanhamento de alunos de ensino médio em escolas privadas
 img: # Add image post (optional)
@@ -9,7 +9,7 @@ tags: [Machine learning, Previsão, Educação]
 comments: false
 ---
 
-# Acompanhamento de alunos de ensino médio em escolas privadas
+# Edutech - Acompanhamento de alunos de ensino médio em escolas privadas
 
 **Descrição do Desafio:** Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
 
