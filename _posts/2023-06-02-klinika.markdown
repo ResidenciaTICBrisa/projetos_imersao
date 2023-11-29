@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Klinika 
-date: 2023-04-20 13:32:20 +0700
+title: Klinika
+date: 2023-11-11 13:32:20 +0700
 description: Projeto Klinika
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -44,3 +44,122 @@ Getúlio Bernardo Morato Filho - Médico Pediatra - Docente do Curso de Medicina
 
 **Necessidade:** Projeto remoto e reuniões de 4 horas presenciais semanais na Unb ou Akzo Coworking(Asa Norte)
 
+## Resultado obtido
+
+### Principais entregas
+
+Neste projeto, alcançamos o desenvolvimento e entrega de duas partes fundamentais: a Klinika Web, responsável pelo prontuário médico, e a Klinika Admin, dedicada à administração da clínica.
+
+### Imagens do projeto
+
+#### Klinika Web
+
+![Prontuário eletrônico](../assets/img/klinika/Prontuario.gif)
+
+#### Klinika Admin
+
+![Painel de administração](../assets/img/klinika/Admin.gif)
+
+
+### Foto da equipe
+
+<div  class="HomeProfiles" style="justify-content: flex-start; flex-wrap: wrap; display: flex;">
+
+    <figure style="min-width: 240px; text-align: center; border: 1px solid #CCCCCC; padding: 12px; border-radius: 8px; margin: 30px">
+      <img  src="https://github.com/analuizargds.png" alt="Foto da Ana Luiza Rodrigues" width="110px" style="border-radius: 6%">
+      <figcaption style="font-weight: bold; color: #000000; font-size: 14px; text-align: center;">
+        <span style="display: block; margin-bottom: 8px;">Ana Luiza</span>
+        <a href="https://github.com/analuizargds" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/github.svg" alt="Logo do GitHub" width="24px" style="margin-right: 4px;">
+          analuizargds
+        </a>
+        <a href="https://www.linkedin.com/in/ana-luiza-rodrigues-599b6b238/" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/linkedin.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+          Ana Luiza Rodrigues
+        </a>
+        <a href="mailto:rodriguesa208@gmail.com" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/envelope.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+          rodriguesa208@gmail.com
+        </a>
+      </figcaption>
+    </figure>
+
+    <figure style="min-width: 240px; text-align: center; border: 1px solid #CCCCCC; padding: 12px; border-radius: 8px; margin: 30px">
+      <img  src="https://github.com/PedroHenrique2077.png" alt="Foto do Pedro Henrique" width="110px" style="border-radius: 6%">
+      <figcaption style="font-weight: bold; color: #000000; font-size: 14px; text-align: center;">
+        <span style="display: block; margin-bottom: 8px;">Pedro Henrique</span>
+        <a href="https://github.com/PedroHenrique2077" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/github.svg" alt="Logo do GitHub" width="24px" style="margin-right: 4px;">
+          PedroHenrique2077
+        </a>
+        <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-carvalho-046596230/" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/linkedin.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+          Pedro Henrique Rodrigues<br /> Carvalho
+        </a>
+        <a href="mailto:pedro.rodriguesdecarvalho080@gmail.com" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/envelope.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+          pedro.rodriguesdecarvalho080<br />@gmail.com
+        </a>
+      </figcaption>
+    </figure>
+
+    <figure style="min-width: 240px; text-align: center; border: 1px solid #CCCCCC; padding: 12px; border-radius: 8px; margin: 30px">
+      <img  src="https://github.com/Izarias.png" alt="Foto do Pedro Izarias" width="110px" style="border-radius: 6%">
+      <figcaption style="font-weight: bold; color: #000000; font-size: 14px; text-align: center;">
+        <span style="display: block; margin-bottom: 8px;">Pedro Izarias</span>
+        <a href="https://github.com/Izarias" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/github.svg" alt="Logo do GitHub" width="24px" style="margin-right: 4px;">
+          Izarias
+        </a>
+        <a href="https://br.linkedin.com/in/pedro-augusto-dourado-izarias-b0b10a141" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/linkedin.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+          Pedro Augusto Dourado Izarias
+        </a>
+        <a href="mailto:pedroaugustoizarias@gmail.com" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+          <img src="../assets/img/klinika/envelope.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+          pedroaugustoizarias@gmail.com
+        </a>
+      </figcaption>
+    </figure>
+
+<!-- <a href="https://github.com/SamuelGSouza" target="_blank"> -->
+<figure style="min-width: 240px; text-align: center; border: 1px solid #CCCCCC; padding: 12px; border-radius: 8px; margin: 30px">
+  <img src="https://github.com/SamuelGSouza.png" alt="Foto do Samuel Gomes" width="110px" style="border-radius: 6%">
+  <figcaption style="font-weight: bold; color: #000000; font-size: 14px; text-align: center;">
+    <span style="display: block; margin-bottom: 8px;">Samuel Gomes</span>
+    <a href="https://github.com/SamuelGSouza" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+      <img src="../assets/img/klinika/github.svg" alt="Logo do GitHub" width="24px" style="margin-right: 4px;">
+      SamuelGSouza
+    </a>
+    <a href="https://www.linkedin.com/in/SamuelGSouza/" target="_blank" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+      <img src="../assets/img/klinika/linkedin.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+      /SamuelGSouza
+    </a>
+    <a href="mailto:samuelgomes318@gmail.com" style="text-align: left; display: block; margin-bottom: 4px; text-decoration: none; color: #1565C0; background-color: #E3F2FD; padding: 4px; border-radius: 4px;">
+      <img src="../assets/img/klinika/envelope.svg" alt="Logo do LinkedIn" width="24px" style="margin-right: 4px;">
+      samuelgomes318@gmail.com
+    </a>
+  </figcaption>
+</figure>
+
+<!-- </a> -->
+
+</div>
+
+## Lições aprendidas
+
+### Ana Luiza
+
+Quero destacar o grande aprendizado que tive nesses 6 meses. Desde o começo imaginei que a experiência no programa seria de grande proveito, mas supriu ainda mais minhas expectativas. Foi desafiador e inovador e só tenho a agradecer pela oportunidade. Depois de toda essa experiência me sinto preparada para o mercado de trabalho. Aprendi a trabalhar em equipe, a falar com cliente, a superar desafios, a utilizar framework, linguagem e ferramentas novas. Mas o que mais quero destacar é o quanto me identifiquei com essa área, agora sei que quero seguir a carreira de engenheira fé software. Agradeço profundamente a oportunidade.
+
+### Pedro Henrique
+
+Durante minha participação neste projeto, adquiri habilidades essenciais de gerenciamento de tempo, aprimorei minha proficiência no desenvolvimento de APIs utilizando Nest.JS e ampliei significativamente meu domínio em React. Aprofundei-me em tecnologias complementares, como o Redux, aprimorando assim minha capacidade de criar aplicações mais robustas e eficientes. Além disso, explorei o fascinante campo da inteligência artificial, aplicando modelos da OpenAI para desenvolver soluções inovadoras que agregam valor ao projeto.
+
+### Pedro Izarias
+
+Os maiores aprendizados que tive no programa foram relacionados ao funcionamento de um projeto de software como um todo, como se decide o que será feito, a importância de se ter reuniões regulares e o trabalho em equipe. Pude melhorar também minhas habilidades em programação e entender melhor o funcionamento de uma plataforma web.
+
+### Samuel Gomes
+
+Neste projeto, adquiri experiência ao trabalhar com um cliente real e em equipe, aprimorando tanto minhas habilidades técnicas quanto interpessoais. Também aprofundei meus conhecimentos em React, Nest.js, MongoDB, API da OpenAI e sistemas distribuídos, além de ganhar um conhecimento mais profundo sobre as áreas da saúde, clínicas e atendimentos médicos. Além disso, foi gratificante receber o feedback positivo do cliente ao término do projeto, confirmando que conseguimos atender plenamente às suas expectativas.
