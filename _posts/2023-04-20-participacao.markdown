@@ -16,8 +16,6 @@ Em plataformas de participação digital, é muito importante permitir que toda 
 
 
 ## Resultados obtidos: Solução em linguagem natural, feita em software livre para comunicação por voz treinada com a língua brasileira
-- Imagem do projeto:
-- Foto da equipe:
 
 ## Lições Aprendidas
 
@@ -42,10 +40,16 @@ Para mim o mais desafiador foi lidar com uma tecnologia complexa enquanto tentav
 ## Habilidades necessárias/preferenciais  
 - programação em python, conhecimento em processamento de sinais, machine learning
 
+## Equipe
+
+ <p >
+    <img src="https://media.licdn.com/dms/image/D4D22AQFUk_sXbyjIcQ/feedshare-shrink_800/0/1694886649967?e=1704326400&v=beta&t=8jeXQlVLzyEl4oLiqY9V4D9SZRRy6hDCj_F-PLBLZkk" width="1000">
+</p>
 ## Mentores
 - Laila Felix, Secretaria de Participação Social. 
 - Laboratório Lappis
 
 **Tamanho do projeto:** Médio/Grande
 **Dificuldade:** Grande
+
 **Link para a Solução**: [Voz Para Todos](https://residenciaticbrisa.github.io/01_ComunicacaoTexto/)
