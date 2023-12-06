@@ -1,0 +1,47 @@
+I"�<h1 id="bp-classificador-de-propostas">BP Classificador de Propostas</h1>
+
+<p><strong>Descrição:</strong> Brasil Participativo é a nova plataforma digital do governo federal, software livre Decidim, um espaço para que a população possa contribuir com a criação e melhoria das políticas públicas. Com uma semana no ar, a plataforma já tem 1000 propostas feitas pelos cidadãos. A plataforma, porém, não possui indexação ou processamento de linguagem natural para categorizar de forma automatizada as propostas. A ideia da proposta é fazer análise das propostas por meio de processamento de linguagem natural (PLN).
+<a href="https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/">Brasil participativo</a></p>
+
+<p><strong>Resultados esperados:</strong> A partir das propostas do Brasil participativo, é esperado a extração dos dados, a análise e o pré-processamento dos mesmos. Com o objetivo de utilizarmos modelos de classificação já existentes para análise de texto ou na criação de novos modelos. Também é esperado após a criação de modelo de classificação, a integração no sistema do Brasil participativo atráves de uma API.</p>
+
+<p><strong>Resultado obtido:</strong> Após 6 meses de trabalho árduo, obtivemos um modelo de classficação de propostas com uma acurácia de 63%. Claramente não é uma porcentagem alta para ser comercializada, isso se deve ao fato que atualmente o Brasil participativo não possui propostas suficientes para ter um bom treinamento, nesse exato momento ela possui 8000 sendo que mais da metade dessas propostas estão em apenas duas categorias, como pode ser visto na imagem abaixo:
+<img src="https://uploaddeimagens.com.br/images/004/679/337/original/grafico.png?1701394574" alt="Grafico" /></p>
+
+<p>Mesmo assim, para atingir essa acurácia foi realizado diversas técnicas sofisticadas de balanceamento de dados e aumento de dados (data augmentation) para conseguir esse desempenho. No fim, foi criado uma automação utilizando o AirFlow, para que o algoritmo continue adicionando novas propostas, assim que, elas forem publicadas no site. Com isso, um dia quando o site possuir propostas suficientes o algoritmo vai ser capaz de alcançar bons resultados.</p>
+
+<p><strong>Principais entregas:</strong> Tivemos duas principais entregas:</p>
+<ol>
+  <li>Algoritmo de categorização de propostas com acurácia de 63%;</li>
+  <li>Melhorias no algoritmo de categorização, automatização de coleta de dados no Airflow e a criação de uma GEM no Ruby.</li>
+</ol>
+
+<p><strong>Link da solução:</strong> Caso tenha interesse em se aprofundar, <a href="https://github.com/ResidenciaTICBrisa/07_ProcessamentoLinguagemNatural">nesse link</a> se encontra o nosso repositório no Github com a documentação atualizada e completa.</p>
+
+<p><strong>Foto da equipe:</strong>
+Os integrantes da equipe da esquerda para direita são:</p>
+<ul>
+  <li><a href="https://github.com/LexTOliver">Alexandre Oliveira</a></li>
+  <li><a href="https://github.com/Leanddro13">Leandro Silva</a></li>
+  <li><a href="https://github.com/jpanacleto2">João anacleto</a></li>
+  <li><a href="https://github.com/chaydson">Chaydson Ferreira</a></li>
+</ul>
+
+<p><img src="https://uploaddeimagens.com.br/images/004/679/335/original/time.jpg?1701394492" alt="Foto da equipe" /></p>
+
+<p><strong>lições aprendidas</strong>:</p>
+<ul>
+  <li><strong>Alexandre:</strong> A experiência mais válida que posso ressaltar é a colaboração no trabalho dado o projeto que estávamos responsabilizados a desenvolver. A divisão de papéis e tarefas na equipe, a comunicação com as partes organizadoras (monitores e professores) que por vezes representaram o nosso cliente no que tange as demandas, prazos e resultados a serem entregues. O Brisa foi uma jornada prática no qual foi possível vivenciar uma experiência de mercado na veia. Um projeto que saiu do escopo universitário e de pesquisa, realmente trazendo os participantes a um novo nível de capacitação mercadológica.
+Ainda assim, alguns pontos podem ser melhorados para próximos editais. O principal ponto seria em relação ao conteúdo da etapa EAD que poderia ser retrabalhado e revisado para tornar mais interativo (menos conteúdo de leitura e mais vídeos) e para melhor absorção do conhecimento (muitas apostilas/ementas são mal definidas, a exemplificar o curso de Blockchain que não fala de Blockchain, e sim de criptografia e segurança em redes), além dos erros nos questionários. Na etapa de imersão, faltou uma definição mais clara das demandas/obrigações gerais para as equipes, como a definição de papéis na equipe que veio meses depois da imersão ter começado. Demandas essas que não se pode esperar partir de estudantes que tecnicamente estão se capacitando ao mercado de tecnologia.
+Uma imensa gratidão a todos que proporcionaram essa experiência enriquecedora, aos processos motivadores e correções durante o desenvolvimento do projeto. Trarei a experiência para toda a minha carreira.</li>
+  <li><strong>Leandro Silva:</strong> Primeiramente gostaria de agradecer todo mundo que estava envolvido nesse projeto, principalmente aos monitores sem eles com certeza não teriamos conseguido entregar o projeto. Então, tive finalmente a oportunidade de colocar os meus conhecimentos em prática que eu estava adquirindo na faculdade, em um projeto real para um cliente real. Tive bastante dificuldade durante o projeto, eram tecnologias e ferramentas que eu nunca tinha visto e trabalhado, porém depois dessa jornada de 6 meses eu garanto que valeu apena e tenho certeza que irei trabalhar no ramo de Machine Learning e Artificial Language.</li>
+  <li><strong>João Anacleto:</strong> Durante os 6 meses de desenvolvimento pude adquirir diversas hards e soft skills, como por exemplo NLP,Python,Machine Learning dentre diversas habilidades ao interagir com os membros de todos os projetos, de modo geral acredito que a Brisa foi uma experiencia <strong>INDISPENSÁVEL</strong> para meu crescimento profissional e pessoal, gostaria de agradecer a todos os participantes e mentores do projeto.</li>
+  <li><strong>Chaydson:</strong> Aprendi a trabalhar com modelos de machine learning, Ruby Gems, Air Flow e Fast API. Bem como, gestão de uma equipe de software e trabalho em equipe.</li>
+</ul>
+
+<p><strong>Habilidades necessárias/preferenciais:</strong> Conhecimento em python, conhecimento básico em ciência de dados, compreensão de regras gramaticais em língua portuguesa</p>
+
+<p><strong>Mentores:</strong> Laila, Secretaria de Participação Social</p>
+
+<p><strong>Tamanho do projeto e dificuldade:</strong> Esse é um projeto Grande, necessitando de uma equipe de no mínimo 4 pessoas e com uma complexidade difícil.</p>
+:ET
