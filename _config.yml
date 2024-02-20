@@ -1,6 +1,6 @@
 title: Residência BRISA/FGA-UnB
 description: > # this means to ignore newlines until "baseurl:"
-  Residência em TIC da BRISA/UnB FGA - Projetos 2023.1
+  Residência em TIC da BRISA/UnB FGA
 permalink: ':title/'
 baseurl: "/projetos_imersao" # the subpath of your site, e.g. /blog
 url: "https://residenciaticbrisa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ url: "https://residenciaticbrisa.github.io" # the base hostname & protocol for y
 # Author Settings
 author: 
 author-img: lappis.png
-about-author: Residência BRISA/UnB FGA  - Projetos 2023.1
+about-author: Residência BRISA/UnB FGA
 social-email: caguiar@unb.br
 social-github: rochacarla
 
