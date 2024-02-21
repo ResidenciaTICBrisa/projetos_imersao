@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Evolução do Querido Diário
@@ -39,7 +38,6 @@ Com estes cenários solucionados, o Querido Diário será uma ferramenta ainda m
 - Angular
 - Sistemas de arquivos s3-like (Digital Ocean Spaces)
 - Elasticsearch/Opensearch
-
 
 ## Mentores
 - Giulio Carvalho, Open Knowledge Brasil

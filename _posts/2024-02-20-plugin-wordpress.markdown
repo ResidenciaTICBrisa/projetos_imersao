@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Plugin para Wordpress
