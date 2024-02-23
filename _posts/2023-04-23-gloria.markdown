@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IA Glória (exclusivo para mulheres)
-date: 2023-04-20 13:32:20 +0700
+date: 2023-04-23 13:32:20 +0700
 description: IA Glória (exclusivo para mulheres)
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
