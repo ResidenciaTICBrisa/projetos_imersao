@@ -1,0 +1,28 @@
+---
+layout: post
+title: IA Glória (exclusivo para mulheres)
+date: 2023-04-20 13:32:20 +0700
+description: IA Glória (exclusivo para mulheres)
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [ia, inteligencia artificial, ml]
+comments: false
+---
+
+# Evolução da IA Glória (exclusivo para mulheres)
+
+**Descrição:** A Gloria é uma inteligência artificial, uma robozinha, focada em acabar com a violência contra mulheres e meninas. Depois deste primeiro grande passo, pensar na forma de acabar com a violência de gênero, criamos um Instituto sem fins lucrativos que busca, através de diversos projetos, coletar e minerar dados em que, a partir de “histórias” contadas aprende o melhor caminho para o combate à violência de gênero. Com isso, o objetivo deste projeto é evoluir essa IA.
+
+**Resultados esperados:** Evolução da IA Glória
+
+**Habilidades necessárias/preferenciais:**
+
+- Conhecimentos em IA
+- Conhecimento em ML
+- Python
+
+**Mentores:**
+
+**Tamanho do projeto:** Médio/Grande
+
+**Dificuldade:** Média
