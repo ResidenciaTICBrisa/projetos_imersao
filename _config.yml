@@ -4,6 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/projetos_imersao" # the subpath of your site, e.g. /blog
 url: "https://residenciaticbrisa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+livereload: true
 
 # Author Settings
 author: 
