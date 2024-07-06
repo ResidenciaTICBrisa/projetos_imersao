@@ -3,7 +3,7 @@ layout: post
 title: Chatbot de Participação Social
 date: 2024-02-21 13:32:20 +0700
 description: Chatbot de Participação Social
-img: https://github.com/ResidenciaTICBrisa/T2G2-Chatbot-Participacao-Social/blob/main/site/images/rasinha_logo.jpeg
+img: rasinha_logo.jpeg
 fig-caption: Ícone do Chatbot
 tags: [programacao, chatbot, ai]
 comments: false
