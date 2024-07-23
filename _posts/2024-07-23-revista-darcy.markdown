@@ -13,8 +13,8 @@ comments: false
 
 ## Plataformas
 - [Revista Darcy - Site Atual](https://revistadarcy.unb.br/)
-- [Revista Darcy - Ambiente de Testes TIC BRISA](https://brisa.olympusswe.com)
 - [Revista Darcy - Ambiente de Homologação - Servidores da UnB](https://revistadarcy.sites.homologa.unb.br/)
+    - Atualmente o ambiente de homologação é restrito e acessado apenas por meio de login
 
 ## Sobre a Revista Darcy
 - **Descrição:** A Revista Darcy, criada em 2009 e sob a responsabilidade da Secretaria de Comunicação da Universidade de Brasília, destaca-se como uma publicação dedicada ao jornalismo científico e cultural. Projetada como uma vitrine da produção acadêmica da UnB, a revista apresenta reportagens que comunicam, de maneira acessível, as atividades de pesquisa e extensão desenvolvidas na instituição, oferecendo uma visão cativante e informativa do cenário acadêmico.
