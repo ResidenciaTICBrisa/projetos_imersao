@@ -31,11 +31,6 @@ Com estes cenários solucionados, o Querido Diário será uma ferramenta ainda m
 
 **Dificuldade:** Grande
 
-## Roadmap
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOlm4vs8=/?moveToViewport=-470,-3363,6023,2733&embedId=592248376332" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-<a href="https://miro.com/app/board/uXjVOlm4vs8=/?moveToViewport=-470,-3363,6023,2733&embedId=592248376332" target="_blank" rel="noopener">Roadmap | Querido Diário</a>
-
 ## Habilidades necessárias/preferenciais  
 - Python
 - FastAPI
@@ -47,11 +42,38 @@ Com estes cenários solucionados, o Querido Diário será uma ferramenta ainda m
 ## Mentores
 - Giulio Carvalho, Open Knowledge Brasil
 
-## Repositórios da Equipe
+## Resultados
 
-- O site do Querido Diário é dividido em [Backend](https://github.com/Wildemberg-Projects/querido-diario-frontend) e [Frontend](https://github.com/Wildemberg-Projects/querido-diario-backend).
-- [API do Querido Diário](https://github.com/Wildemberg-Projects/querido-diario-api).
-- [Data Processing](https://github.com/Wildemberg-Projects/querido-diario-data-processing).
+* Criação de <b>manual de configuração do ambiente de desenvolvimento</b> dentro do Linux em conjunto com o mentor Giulio.
+
+* Página de <b>download de múltiplos enxertos resultantes</b> de uma busca textual:
+<img src="../assets/img/querido-diario/pesquisa_checkbox-1.png" style="margin-top:2em; border: 5px solid orange; border-radius: 10px">
+<img src="../assets/img/querido-diario/pesquisa_checkbox-2.png" style="margin-top:4em; margin-bottom:2em; border: 5px solid orange; border-radius: 10px">
+
+* Página e serviço de <b>download de arquivos</b> proveniente da extração textual dos diários oficiais municipais, <b>agregados em ano e estado/município:</b>
+
+<img src="../assets/img/querido-diario/dados_agregados-1.png" style="margin-top:4em; margin-bottom:2em; border: 5px solid orange; border-radius: 10px">
+
+   - Por estado:
+<img src="../assets/img/querido-diario/dados_agregados-2.png" style="margin-top:2em; margin-bottom:2em; border: 5px solid orange; border-radius: 10px">
+
+   - Por município:
+<img src="../assets/img/querido-diario/dados_agregados-3.png" style="margin-top:2em; margin-bottom:2em; border: 5px solid orange; border-radius: 10px">
+
+
+## Roadmap
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOlm4vs8=/?moveToViewport=-470,-3363,6023,2733&embedId=592248376332" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<a href="https://miro.com/app/board/uXjVOlm4vs8=/?moveToViewport=-470,-3363,6023,2733&embedId=592248376332" target="_blank" rel="noopener">Roadmap | Querido Diário</a>
+
+
+## Repositórios Utilizados pela Equipe
+
+- [Backend](https://github.com/Wildemberg-Projects/querido-diario-frontend)
+- [Frontend](https://github.com/Wildemberg-Projects/querido-diario-backend)
+- [API](https://github.com/Wildemberg-Projects/querido-diario-api).
+- [Data Processing](https://github.com/Wildemberg-Projects/querido-diario-data-processing)
+- [Landing Page/Documentação](https://wildemberg-projects.github.io/LP-Querido-Diario/)
 
 ## Equipe 
 
@@ -63,3 +85,4 @@ Com estes cenários solucionados, o Querido Diário será uma ferramenta ainda m
 |       <img src="https://github.com/pkbceira03.png" width="150px" />        | Pedro Cabeceira  |              [pkbceira03](https://github.com/pkbceira03)              |
 |    <img src="https://github.com/raissamsoliveira.png" width="150px" />     | Raissa Oliveira  |        [raissamsoliveira](https://github.com/raissamsoliveira)        |
 |    <img src="https://github.com/wildemberg-sales.png" width="150px" />     | Wildemberg Sales |        [wildemberg-sales](https://github.com/wildemberg-sales)        |
+
