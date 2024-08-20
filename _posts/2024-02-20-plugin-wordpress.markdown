@@ -3,25 +3,42 @@ layout: post
 title: Plugin para Wordpress
 date: 2024-02-20 13:32:20 +0700
 description: Plugin para Wordpress
-img: # Add image post (optional)
+img: https://github.com/ResidenciaTICBrisa/T2G8-Plugin-Wordpress/blob/main/docs/assets/images/logo.png
 fig-caption: # Add figcaption (optional)
-tags: [wordpress, frontend, design, lgbtqia+]
+tags: [wordpress, frontend, design, lgbtqia+, php, javascript, mysql]
 comments: false
 ---
 
-# Plugin para Wordpress
+Nosso projeto tem como principal objetivo conectar empreendimentos e serviços LGBTQIAPN+ friendly com toda a comunidade LGBTQ+. Através dessa plataforma, buscamos promover a inclusão, visibilidade e apoio mútuo dentro da comunidade, fortalecendo laços e ampliando oportunidades para todos. Junte-se a nós nessa jornada rumo a um mundo mais igualitário e acolhedor para todas as identidades de gênero e orientações sexuais!
 
-## Descrição:
-Um plugin para WordPress projetado para simplificar o mapeamento georreferenciado de empreendimentos e serviços voltados para a comunidade LGBTQIAP+. Essa ferramenta proporciona uma maneira intuitiva de localizar e acessar informações sobre locais e serviços inclusivos, promovendo a visibilidade e a acessibilidade a recursos que atendem às necessidades específicas dessa comunidade. Com recursos de mapeamento interativo, este plugin visa criar uma plataforma inclusiva que facilita a busca e a conexão com empreendimentos e serviços amigáveis para a comunidade LGBTQIAP+.
+## Sobre o Projeto
 
-## Habilidades necessárias/preferenciais  
-- Design
-- Marketing
-- WordPress
+O LGBTQ+ Connect é um plugin para o Wordpress que permite que você adicione um mapa interativo ao seu site, destacando locais seguros e acolhedores para a comunidade LGBTQ+. Com uma interface fácil de usar, os visitantes podem sugerir novos locais e o administrador pode aprovar, editar ou excluir essas sugestões diretamente do painel do WordPress.Nossa ferramenta é ideal para sites que desejam promover a inclusão e fornecer suporte à comunidade LGBTQ+. Simplifique a descoberta de locais amigáveis e ajude a criar um ambiente mais seguro e acolhedor para todos.
+
+## Tecnologias utilizadas
+
+- Wordpress
+- PhP
+- MySQL
+- JavaScript
+- Leaflet
+- Nominatim
+
 
 ## Mentores
 - Valessio Soares de Brito, Manifesta Jacobina
 
-
 **Tamanho do projeto:** Médio
-**Dificuldade:** Grande
+
+**Dificuldade:** Grandes
+
+## Links para repositório e landingpage
+
+- [Repositório](https://github.com/ResidenciaTICBrisa/T2G8-Plugin-Wordpress).
+- [Landingpage](https://residenciaticbrisa.github.io/T2G8-Plugin-Wordpress/#/).
+
+## Desenvolvedores
+
+| ![Maximiliano Rohrer Martins Junior](https://avatars.githubusercontent.com/u/160171332?v=4) | ![William Bernardo da Silva](https://avatars.githubusercontent.com/u/124713089?v=4) | ![Igor Brandão Costa](https://avatars.githubusercontent.com/u/111445872?v=4) | ![Gustavo Linhares Lima](https://avatars.githubusercontent.com/u/143884487?v=4) | ![Marcos Vinicius Gündel da Silva](https://avatars.githubusercontent.com/u/85762681?v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Maximiliano Rohrer Martins Junior](https://github.com/Max-Rohrer20) | [William Bernardo da Silva](https://github.com/WillxBernardo) | [Igor Brandão Costa](https://github.com/Punkrig) | [Gustavo Linhares Lima](https://github.com/guslnhm) | [Marcos Vinicius Gündel da Silva](https://github.com/MarcosViniciusG) |
